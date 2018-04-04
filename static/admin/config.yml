@@ -68,7 +68,7 @@ collections:
       - {label: "Hent automatisk", name: "downloaded", widget: "boolean", default: true}
       - {label: "Bil", name: "title", widget: "string", required: false}
       - {label: "Tekst", name: "body", widget: "markdown", required: false}
-      - {label: Billeder, name: pictures, widget: object, fields: [{label: Billeder, name: picturelist, widget: list, fields: [{label: Image, name: image, widget: image}]}], required: false}
+      - {label: Billeder, name: pictures, widget: object, fields: [{label: Billeder, name: picturelist, widget: list, required: false, fields: [{label: Image, name: image, widget: image}]}], required: false}
       - {label: "Årgang", name: "year", widget: "string", required: false}
       - {label: "Mdl. ydelse", name: "monthlycost", widget: "string", required: false}
       - {label: "Førstegangs ydelse", name: "firstcost", widget: "string", required: false}
