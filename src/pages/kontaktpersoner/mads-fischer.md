@@ -1,7 +1,7 @@
 ---
 path: /kontaktpersoner
 contactimage: /img/madsfischer.jpg
-title: Mads Fischer1
+title: Mads Fischer2
 contacttitle: 'Partner, Salgsansvarlig'
 contacteducation: Cand. Merc. SMc
 contacttelephone: +45 53705222
